@@ -16,6 +16,8 @@ public class WafUtil: NSObject {
     private let domain_name = "dev-app2.govee.com"
     private let acl_url_string = "https://a984f4f6448a.us-east-1.sdk.awswaf.com/a984f4f6448a/0b7c5b5291f0/"
     
+    public var waf_token = ""
+    
     private(set) lazy var acl_url:URL = URL(string: acl_url_string)!
     
     private(set) var tokenProvider:WAFTokenProvider?
