@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => 'git@github.com:GoveeHomeApp/GHAWSThirdLibs.git', :tag => s.version.to_s }
 
   s.source_files = 'GHAWSThirdLibs/Classes/**/*'
-
+  s.vendored_frameworks = ['WafMobileSdk.xcframework']
   #- 此参数用于注册组件 -#
   #s.info_plist = { 'GHModular' => 'GHxxxxxxx.GHxxxxxModule' }
 
