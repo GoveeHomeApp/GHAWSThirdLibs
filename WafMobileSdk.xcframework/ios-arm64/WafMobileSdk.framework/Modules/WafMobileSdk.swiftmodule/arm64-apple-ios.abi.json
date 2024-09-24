@@ -29348,2177 +29348,2177 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Digester.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Digester.swift",
       "kind": "IntegerLiteral",
       "offset": 713,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Digester.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Digester.swift",
       "kind": "IntegerLiteral",
       "offset": 739,
       "length": 2,
       "value": "32"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Digester.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Digester.swift",
       "kind": "IntegerLiteral",
       "offset": 2659,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Digester.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Digester.swift",
       "kind": "IntegerLiteral",
       "offset": 2664,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Digester.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Digester.swift",
       "kind": "Array",
       "offset": 2730,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/TokenRefreshContext.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/TokenRefreshContext.swift",
       "kind": "IntegerLiteral",
       "offset": 329,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "StringLiteral",
       "offset": 4330,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "BooleanLiteral",
       "offset": 4423,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "StringLiteral",
       "offset": 4834,
       "length": 29,
       "value": "\"SignalError.notReady for %@\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "StringLiteral",
       "offset": 4987,
       "length": 21,
       "value": "\"Signal is not ready\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "StringLiteral",
       "offset": 5081,
       "length": 43,
       "value": "\"SignalError.insufficientPermission for %@\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "StringLiteral",
       "offset": 5263,
       "length": 39,
       "value": "\"Signal requires additional permission\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "StringLiteral",
       "offset": 5376,
       "length": 44,
       "value": "\"SignalError.notAvailableInOSVersion for %@\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "StringLiteral",
       "offset": 5560,
       "length": 36,
       "value": "\"Signal not available in OS version\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "StringLiteral",
       "offset": 5660,
       "length": 34,
       "value": "\"SignalError.notCompatible for %@\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "StringLiteral",
       "offset": 5824,
       "length": 37,
       "value": "\"Signal not compatible on the device\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "StringLiteral",
       "offset": 5899,
       "length": 46,
       "value": "\"error occurred evaluating signal for %@ : %@\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Device.swift",
       "kind": "StringLiteral",
       "offset": 6165,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Log.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Log.swift",
       "kind": "StringLiteral",
       "offset": 338,
       "length": 13,
       "value": "\"AWS-WAF-SDK\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Challenge.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Challenge.swift",
       "kind": "IntegerLiteral",
       "offset": 344,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Challenge.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/Challenge.swift",
       "kind": "IntegerLiteral",
       "offset": 390,
       "length": 6,
       "value": "100000"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
       "kind": "IntegerLiteral",
       "offset": 499,
       "length": 3,
       "value": "300"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
       "kind": "IntegerLiteral",
       "offset": 568,
       "length": 2,
       "value": "88"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
       "kind": "IntegerLiteral",
       "offset": 650,
       "length": 4,
       "value": "5000"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
       "kind": "IntegerLiteral",
       "offset": 717,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
       "kind": "IntegerLiteral",
       "offset": 795,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
       "kind": "IntegerLiteral",
       "offset": 869,
       "length": 5,
       "value": "30000"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
       "kind": "IntegerLiteral",
       "offset": 939,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
       "kind": "BooleanLiteral",
       "offset": 3460,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
       "kind": "StringLiteral",
       "offset": 3521,
       "length": 3,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
       "kind": "BooleanLiteral",
       "offset": 5832,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFConfiguration.swift",
       "kind": "StringLiteral",
       "offset": 5893,
       "length": 3,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/ChallengeHelper.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/ChallengeHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 352,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/ChallengeHelper.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/ChallengeHelper.swift",
       "kind": "StringLiteral",
       "offset": 385,
       "length": 10,
       "value": "\"max-age=\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/ChallengeHelper.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/ChallengeHelper.swift",
       "kind": "FloatLiteral",
       "offset": 431,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1368,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1524,
       "length": 72,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1594,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1615,
       "length": 66,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1679,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1700,
       "length": 74,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1772,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1793,
       "length": 76,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1867,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1888,
       "length": 67,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1953,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1974,
       "length": 70,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2042,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2063,
       "length": 70,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2131,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2152,
       "length": 67,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2217,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2238,
       "length": 75,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2311,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2332,
       "length": 70,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2400,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2421,
       "length": 76,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2495,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2516,
       "length": 69,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2583,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2604,
       "length": 69,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2671,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2692,
       "length": 72,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2762,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2783,
       "length": 71,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2852,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2873,
       "length": 71,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2942,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2963,
       "length": 66,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3028,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "BooleanLiteral",
       "offset": 3047,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/PreferenceSignalsProvider.swift",
       "kind": "BooleanLiteral",
       "offset": 3231,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFTokenProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFTokenProvider.swift",
       "kind": "IntegerLiteral",
       "offset": 1703,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFTokenProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFTokenProvider.swift",
       "kind": "IntegerLiteral",
       "offset": 6856,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFTokenProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/WAFTokenProvider.swift",
       "kind": "IntegerLiteral",
       "offset": 17005,
       "length": 7,
       "value": "1000000"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 243,
       "length": 12,
       "value": "\"DeviceName\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 279,
       "length": 13,
       "value": "\"DeviceModel\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 313,
       "length": 10,
       "value": "\"Hardware\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 345,
       "length": 11,
       "value": "\"OSVersion\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 379,
       "length": 12,
       "value": "\"SystemName\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 417,
       "length": 15,
       "value": "\"SystemVersion\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 16,
       "value": "\"PhysicalMemory\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 504,
       "length": 18,
       "value": "\"TotalDiskSpaceGB\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 549,
       "length": 16,
       "value": "\"SystemTimeZone\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 593,
       "length": 17,
       "value": "\"CanMakePayments\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 635,
       "length": 14,
       "value": "\"IsJailBroken\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 678,
       "length": 18,
       "value": "\"VendorIdentifier\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 727,
       "length": 20,
       "value": "\"PreferredLanguages\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 775,
       "length": 17,
       "value": "\"CurrentLocaleId\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 822,
       "length": 19,
       "value": "\"CurrentRegionCode\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 869,
       "length": 17,
       "value": "\"CurrentTimeZone\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 908,
       "length": 11,
       "value": "\"Keyboards\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 953,
       "length": 23,
       "value": "\"AccessibilitySettings\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1000,
       "length": 13,
       "value": "\"ContentSize\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1033,
       "length": 9,
       "value": "\"Carrier\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1066,
       "length": 13,
       "value": "\"NetworkCode\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1109,
       "length": 19,
       "value": "\"MobileCountryCode\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1155,
       "length": 16,
       "value": "\"IsoCountryCode\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1193,
       "length": 11,
       "value": "\"AllowVoip\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1232,
       "length": 17,
       "value": "\"RadioTechnology\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1275,
       "length": 15,
       "value": "\"WifiInterface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1321,
       "length": 20,
       "value": "\"CellularInterface1\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1372,
       "length": 20,
       "value": "\"CellularInterface2\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1437,
       "length": 34,
       "value": "\"AppleWirelessDirectLinkInterface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1514,
       "length": 32,
       "value": "\"LowLatencyWirelessLanInterface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1577,
       "length": 20,
       "value": "\"TunnelingInterface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1624,
       "length": 16,
       "value": "\"IpsecInterface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1665,
       "length": 14,
       "value": "\"En1Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1704,
       "length": 14,
       "value": "\"En2Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1743,
       "length": 14,
       "value": "\"En3Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1782,
       "length": 14,
       "value": "\"En4Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1821,
       "length": 14,
       "value": "\"En5Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1860,
       "length": 14,
       "value": "\"En6Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1899,
       "length": 14,
       "value": "\"En7Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1938,
       "length": 14,
       "value": "\"En8Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1977,
       "length": 14,
       "value": "\"En9Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2017,
       "length": 15,
       "value": "\"En10Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2056,
       "length": 13,
       "value": "\"CanSendMail\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2093,
       "length": 13,
       "value": "\"CanSendText\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2135,
       "length": 18,
       "value": "\"BundleIdentifier\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2179,
       "length": 15,
       "value": "\"BundleVersion\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2213,
       "length": 8,
       "value": "\"Canvas\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2244,
       "length": 12,
       "value": "\"KeyChainId\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2278,
       "length": 11,
       "value": "\"NewDevice\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2310,
       "length": 10,
       "value": "\"DeviceId\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 243,
       "length": 12,
       "value": "\"DeviceName\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 279,
       "length": 13,
       "value": "\"DeviceModel\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 313,
       "length": 10,
       "value": "\"Hardware\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 345,
       "length": 11,
       "value": "\"OSVersion\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 379,
       "length": 12,
       "value": "\"SystemName\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 417,
       "length": 15,
       "value": "\"SystemVersion\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 16,
       "value": "\"PhysicalMemory\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 504,
       "length": 18,
       "value": "\"TotalDiskSpaceGB\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 549,
       "length": 16,
       "value": "\"SystemTimeZone\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 593,
       "length": 17,
       "value": "\"CanMakePayments\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 635,
       "length": 14,
       "value": "\"IsJailBroken\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 678,
       "length": 18,
       "value": "\"VendorIdentifier\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 727,
       "length": 20,
       "value": "\"PreferredLanguages\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 775,
       "length": 17,
       "value": "\"CurrentLocaleId\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 822,
       "length": 19,
       "value": "\"CurrentRegionCode\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 869,
       "length": 17,
       "value": "\"CurrentTimeZone\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 908,
       "length": 11,
       "value": "\"Keyboards\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 953,
       "length": 23,
       "value": "\"AccessibilitySettings\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1000,
       "length": 13,
       "value": "\"ContentSize\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1033,
       "length": 9,
       "value": "\"Carrier\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1066,
       "length": 13,
       "value": "\"NetworkCode\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1109,
       "length": 19,
       "value": "\"MobileCountryCode\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1155,
       "length": 16,
       "value": "\"IsoCountryCode\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1193,
       "length": 11,
       "value": "\"AllowVoip\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1232,
       "length": 17,
       "value": "\"RadioTechnology\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1275,
       "length": 15,
       "value": "\"WifiInterface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1321,
       "length": 20,
       "value": "\"CellularInterface1\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1372,
       "length": 20,
       "value": "\"CellularInterface2\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1437,
       "length": 34,
       "value": "\"AppleWirelessDirectLinkInterface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1514,
       "length": 32,
       "value": "\"LowLatencyWirelessLanInterface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1577,
       "length": 20,
       "value": "\"TunnelingInterface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1624,
       "length": 16,
       "value": "\"IpsecInterface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1665,
       "length": 14,
       "value": "\"En1Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1704,
       "length": 14,
       "value": "\"En2Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1743,
       "length": 14,
       "value": "\"En3Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1782,
       "length": 14,
       "value": "\"En4Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1821,
       "length": 14,
       "value": "\"En5Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1860,
       "length": 14,
       "value": "\"En6Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1899,
       "length": 14,
       "value": "\"En7Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1938,
       "length": 14,
       "value": "\"En8Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1977,
       "length": 14,
       "value": "\"En9Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2017,
       "length": 15,
       "value": "\"En10Interface\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2056,
       "length": 13,
       "value": "\"CanSendMail\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2093,
       "length": 13,
       "value": "\"CanSendText\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2135,
       "length": 18,
       "value": "\"BundleIdentifier\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2179,
       "length": 15,
       "value": "\"BundleVersion\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2213,
       "length": 8,
       "value": "\"Canvas\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2244,
       "length": 12,
       "value": "\"KeyChainId\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2278,
       "length": 11,
       "value": "\"NewDevice\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2310,
       "length": 10,
       "value": "\"DeviceId\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2341,
       "length": 5,
       "value": "\"ios\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2424,
       "length": 9,
       "value": "\"\/inputs\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2461,
       "length": 9,
       "value": "\"\/verify\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2424,
       "length": 9,
       "value": "\"\/inputs\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2461,
       "length": 9,
       "value": "\"\/verify\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2570,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2638,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2743,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2805,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2925,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3018,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2570,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2638,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2743,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2805,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2925,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3018,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2570,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2638,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2743,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2805,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2925,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3018,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3613,
       "length": 16,
       "value": "1"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3643,
       "length": 21,
       "value": "2"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3678,
       "length": 29,
       "value": "3"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3721,
       "length": 30,
       "value": "4"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3765,
       "length": 27,
       "value": "5"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3613,
       "length": 16,
       "value": "1"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3643,
       "length": 21,
       "value": "2"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3678,
       "length": 29,
       "value": "3"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3721,
       "length": 30,
       "value": "4"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3765,
       "length": 27,
       "value": "5"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3613,
       "length": 16,
       "value": "1"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3643,
       "length": 21,
       "value": "2"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3678,
       "length": 29,
       "value": "3"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3721,
       "length": 30,
       "value": "4"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 3765,
       "length": 27,
       "value": "5"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CanvasSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CanvasSignalsProvider.swift",
       "kind": "IntegerLiteral",
       "offset": 440,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CanvasSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CanvasSignalsProvider.swift",
       "kind": "IntegerLiteral",
       "offset": 483,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CanvasSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CanvasSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 523,
       "length": 23,
       "value": "\"AppleSDGothicNeo-Thin\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CanvasSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CanvasSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 583,
       "length": 35,
       "value": "\"¶šÁ¥Æa❁z190#$%^@£éúŒŽ\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 355,
       "length": 6,
       "value": "\"%en0\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 381,
       "length": 6,
       "value": "\"%en1\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 407,
       "length": 6,
       "value": "\"%en2\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 433,
       "length": 6,
       "value": "\"%en3\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 6,
       "value": "\"%en4\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 485,
       "length": 6,
       "value": "\"%en5\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 511,
       "length": 6,
       "value": "\"%en6\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 537,
       "length": 6,
       "value": "\"%en7\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 563,
       "length": 6,
       "value": "\"%en8\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 589,
       "length": 6,
       "value": "\"%en9\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 616,
       "length": 7,
       "value": "\"%en10\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 649,
       "length": 10,
       "value": "\"%pdp_ip0\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 685,
       "length": 10,
       "value": "\"%pdp_ip1\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 735,
       "length": 7,
       "value": "\"%awdl\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 780,
       "length": 6,
       "value": "\"%llw\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 812,
       "length": 7,
       "value": "\"%utun\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 841,
       "length": 8,
       "value": "\"%ipsec\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 355,
       "length": 6,
       "value": "\"%en0\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 381,
       "length": 6,
       "value": "\"%en1\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 407,
       "length": 6,
       "value": "\"%en2\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 433,
       "length": 6,
       "value": "\"%en3\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 6,
       "value": "\"%en4\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 485,
       "length": 6,
       "value": "\"%en5\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 511,
       "length": 6,
       "value": "\"%en6\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 537,
       "length": 6,
       "value": "\"%en7\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 563,
       "length": 6,
       "value": "\"%en8\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 589,
       "length": 6,
       "value": "\"%en9\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 616,
       "length": 7,
       "value": "\"%en10\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 649,
       "length": 10,
       "value": "\"%pdp_ip0\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 685,
       "length": 10,
       "value": "\"%pdp_ip1\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 735,
       "length": 7,
       "value": "\"%awdl\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 780,
       "length": 6,
       "value": "\"%llw\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 812,
       "length": 7,
       "value": "\"%utun\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 841,
       "length": 8,
       "value": "\"%ipsec\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2055,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2086,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2179,
       "length": 36,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2192,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2214,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2450,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2481,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2574,
       "length": 46,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2587,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2619,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2867,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2898,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2991,
       "length": 46,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3004,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3036,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3278,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3309,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3402,
       "length": 43,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3415,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3444,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3676,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3707,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3800,
       "length": 38,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3813,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3837,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 4081,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 4112,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 4205,
       "length": 44,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 4218,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 4248,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 7412,
       "length": 3,
       "value": "\"0\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 7533,
       "length": 3,
       "value": "\"0\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "BooleanLiteral",
       "offset": 8578,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "IntegerLiteral",
       "offset": 9485,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "Array",
       "offset": 9501,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "Array",
       "offset": 9557,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "IntegerLiteral",
       "offset": 10141,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "IntegerLiteral",
       "offset": 10339,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "IntegerLiteral",
       "offset": 10362,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 10476,
       "length": 3,
       "value": "\"%\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 10689,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/CommunicationSignalsProvider.swift",
       "kind": "BooleanLiteral",
       "offset": 10704,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1419,
       "length": 12,
       "value": "\"hw.machine\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1560,
       "length": 16,
       "value": "\"kern.osversion\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 2487,
       "length": 3,
       "value": "\"0\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
       "kind": "BooleanLiteral",
       "offset": 2673,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3039,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3490,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3774,
       "length": 28,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3786,
       "length": 1,
       "value": "\"-\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SystemSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 3801,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/KeyChainSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/KeyChainSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 246,
       "length": 16,
       "value": "\"aws-waf-sdk-id\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/KeyChainSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/KeyChainSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 852,
       "length": 25,
       "value": "\"Existing keychain id %@\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/KeyChainSignalsProvider.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/KeyChainSignalsProvider.swift",
       "kind": "StringLiteral",
       "offset": 1073,
       "length": 27,
       "value": "\"Saving new keychain id %@\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SignalHelper.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Signals\/SignalHelper.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 3,
       "value": "\"|\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/HashCash.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/HashCash.swift",
       "kind": "StringLiteral",
       "offset": 328,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/HashCash.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/HashCash.swift",
       "kind": "IntegerLiteral",
       "offset": 362,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/HashCash.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/HashCash.swift",
       "kind": "BooleanLiteral",
       "offset": 394,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/DataModel.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/DataModel.swift",
       "kind": "Array",
       "offset": 696,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/var\/folders\/hl\/vgzlx_xs7sxf8c4swmt27s4r0000zp\/T\/xcodebuild.4UY92ASITb\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/DataModel.swift",
+      "filePath": "\/var\/folders\/k9\/h9vr4xlj5j5c14mynbmp3h540000zp\/T\/xcodebuild.sJRieYHHJk\/ws\/src\/GokuIOSMobileSdk\/WafMobileSdk\/Challenge\/DataModel.swift",
       "kind": "Array",
       "offset": 727,
       "length": 2,

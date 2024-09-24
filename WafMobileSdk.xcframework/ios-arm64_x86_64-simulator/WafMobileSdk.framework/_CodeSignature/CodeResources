@@ -14,19 +14,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		e5eqB/yNO4h0QaJg9La7d9fqVjY=
+		4hAn54Kgq6DCTZmNV2DckHNwKMQ=
 		</data>
 		<key>Modules/WafMobileSdk.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		TzLWjgxTYLySPaE6yXdFYR5cFj8=
+		WyIeocQ6f2lNK6T1tPUSD9SzzcA=
 		</data>
 		<key>Modules/WafMobileSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		HgsaiPsVYGhWAH+zDEddMPHuIOA=
+		nSyFtv/s+DDszhKEO0+Zqtuu+FI=
 		</data>
 		<key>Modules/WafMobileSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		PoLViJ2FMTWt2/qsLKTI1Y5QYio=
+		pz4lld4nIONtCyFjOJKLaI8nsM4=
 		</data>
 		<key>Modules/WafMobileSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/WafMobileSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		K/h5bfZKPlDDWTK9pFICKxwn2+A=
+		IW7EzJzUotAWwxEZ49/cDiMyS50=
 		</data>
 		<key>Modules/WafMobileSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		PoLViJ2FMTWt2/qsLKTI1Y5QYio=
+		pz4lld4nIONtCyFjOJKLaI8nsM4=
 		</data>
 		<key>Modules/WafMobileSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/WafMobileSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3lMUFJLx4Gzya6P1r/Jp/zBhFe0=
+		REUnW1TEFV/n3cK5Ano3oxsP608=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -101,33 +101,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TzLWjgxTYLySPaE6yXdFYR5cFj8=
+			WyIeocQ6f2lNK6T1tPUSD9SzzcA=
 			</data>
 			<key>hash2</key>
 			<data>
-			I8WGKRWb3t+XtnYzuhm+BhzotqQIL5mJgNWOsaHzJJY=
+			lVc+k/z6k2/Ytc6JUz+x/CNdBJUduRvqV6rR3iawsOk=
 			</data>
 		</dict>
 		<key>Modules/WafMobileSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HgsaiPsVYGhWAH+zDEddMPHuIOA=
+			nSyFtv/s+DDszhKEO0+Zqtuu+FI=
 			</data>
 			<key>hash2</key>
 			<data>
-			KTu9qgFepj2yTc9wSH/F+NSJ7PQTbHz4T9x27mgjzik=
+			ovBRUFcfRZBx+9flj9vpd/s+m15qZNRd/BJJY95a0J4=
 			</data>
 		</dict>
 		<key>Modules/WafMobileSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PoLViJ2FMTWt2/qsLKTI1Y5QYio=
+			pz4lld4nIONtCyFjOJKLaI8nsM4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZXmXnfrdqE4+nFAduP5BF5HV+vDShghIGFsIU+UdBok=
+			kD3anZvvKmgxgXv1+hY8sTxDJh/YQ6WAEHuOOX5m5NQ=
 			</data>
 		</dict>
 		<key>Modules/WafMobileSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -167,22 +167,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K/h5bfZKPlDDWTK9pFICKxwn2+A=
+			IW7EzJzUotAWwxEZ49/cDiMyS50=
 			</data>
 			<key>hash2</key>
 			<data>
-			NbhJ6LvKh0JWMO9wo3vopVSXVHF10plIi3dEVVWG7vE=
+			XzDUMuMLb98T/zLXDZ6xmalCW59YVJ5lLJTkdadMi+4=
 			</data>
 		</dict>
 		<key>Modules/WafMobileSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PoLViJ2FMTWt2/qsLKTI1Y5QYio=
+			pz4lld4nIONtCyFjOJKLaI8nsM4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZXmXnfrdqE4+nFAduP5BF5HV+vDShghIGFsIU+UdBok=
+			kD3anZvvKmgxgXv1+hY8sTxDJh/YQ6WAEHuOOX5m5NQ=
 			</data>
 		</dict>
 		<key>Modules/WafMobileSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -222,11 +222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3lMUFJLx4Gzya6P1r/Jp/zBhFe0=
+			REUnW1TEFV/n3cK5Ano3oxsP608=
 			</data>
 			<key>hash2</key>
 			<data>
-			/Ict/I6DagLjXLR8kzpg5tPVivIY6wfmYgrT0kfRhrA=
+			HQAdURH1yYhN4GoiA/aDXqlPbV+Fw488CJmi7JfJL1s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
